@@ -8,7 +8,7 @@ unable to leverage back-end technologies. This project is a redesign of my origi
 standalone webpage. This iteration does not include server-side logic, however it would in a final
 deployment.
 
-**Design-making:** Reference below.
+**Design-making:** Reference either the combined version of the onepage writeup, or reference the Final Project.one file in MS OneNote.
 
 **Usability Testing:** One of the challenges with the old design was congestion. Due to everything needing
 to be housed on one page, the layout was incredibly compact. Due to management decisions, there is
