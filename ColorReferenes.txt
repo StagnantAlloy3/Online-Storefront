@@ -1,0 +1,13 @@
+Button-primary:
+	base color: #565759
+	border color: #565759
+	hover base:  #606163
+	hover border:  #606163
+	active color: #6F7073
+	active border: #6F7073
+Button-Secondary:
+	base color: 19A603
+	border color: 19A603
+	hover base: 1BB304
+	hover border: 1BB304
+
